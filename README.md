@@ -6,4 +6,4 @@ The Proj2MyProtein image is an image of the EGFR protein generated in PDB Protei
 
 The Proj2ProteinFolding video shows the predicted folding pattern of the same protein in Proj2MyProtein
 
-Proj2Sequence is the sequence of the displayed protein
+Proj2Sequence is the sequence of the protein generated to bind with EGFR.
