@@ -5,3 +5,5 @@ Predicting Protein-Protein Interactions takes a series of inputted sequences and
 The Proj2MyProtein image is an image of the best protein generated in PDB Protein Design
 
 The Proj2ProteinFolding video shows the predicted folding pattern of the same protein in Proj2MyProtein
+
+Proj2Sequence is the sequence of the displayed protein
